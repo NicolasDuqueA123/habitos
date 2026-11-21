@@ -6,8 +6,8 @@ Aplicación web para crear hábitos, marcar los días cumplidos y ver una cuadr�
 
 ## Links de despliegue
 
-- Frontend (Vercel): _pega aquí tu link_
-- Backend (Render): _pega aquí tu link_
+- Frontend (Vercel): https://habitos-six-ecru.vercel.app
+- Backend (Render): https://habitos-api-3bfs.onrender.com
 
 > Nota: el backend gratuito de Render se duerme tras un tiempo sin uso. La primera petición puede tardar unos segundos en responder mientras el servicio despierta.
 
